@@ -1,0 +1,32 @@
+
+body {
+    background-color: #84a3c6;
+    margin: 2;
+    padding: 20px;
+}
+
+h1 {
+    color: #d5644b;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color:#7c9aa8;
+}
+
+p,
+ul {
+  border: 2px solid rebeccapurple;
+  padding: 0.2em;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    width: 300px;
+    height: 150px;
+    border: 1px;
+    font-size: large;
+    background-color: #ffdd65;
+    margin: 20px auto;
+    padding: 15px;
+}
