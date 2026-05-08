@@ -5,5 +5,5 @@ This GitHub repo contains many of the common utility tools available on the web 
 
 You can download the utilities straight to the computer or put them on a USB.
 
-* My GitHub page [Javcdiaz Github](https://javcdiaz.github.io)
+* My IT Utility page [Javcdiaz Github](https://javcdiaz.github.io)
 * Docs folder: [Docs Folder](docs/)
