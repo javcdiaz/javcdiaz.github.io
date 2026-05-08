@@ -18,7 +18,7 @@
 | 2 | Confirm integrity of utilities | | | | | | |
 | 2.1 | Review UELA agreement |  | 1 | 2 | 5/6 | 5/7 | JC |
 | 2.2 | Review the README file |  | 1 | 2 | 5/7 | 5/7 | JC |
-| 2.3 | Test install each utility on a PC | 1 | 2 | 2 | 5/6 | 5/7 | JC |
+| 2.3 | Test install each utility on a PC | 1 | 2 | 2 | 5/7 | 5/7 | JC |
 | 3 | Create utility list in html | | | | | | |
 | 3.1 | Write up a description for each utility | 1  | 1 | 2 | 5/7 | 5/7 | JC | 
 | 3.2 | Create html code for list with description and link |  | 2 | 2 | 5/7 | 5/7 | JC | 
