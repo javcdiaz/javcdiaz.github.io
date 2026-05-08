@@ -10,4 +10,4 @@ Finding broken websites increase in the time it took to complete the research fo
 During the testing, finding utilities that produced unwanted results led to an increase on the time to complete the project.
 ### What would I do differently?
 Some things that I would do different is add more category types with more utilities. I would also expand the full list to include the MAC (Apple) version of some of these utilities. 
-If I had more time, I would also add a list for utilities with good reputation but cost money. 
+If I had more time, I would also add a list for utilities with good reputation but are not free. This will increase the list and make the site even more useful.  
