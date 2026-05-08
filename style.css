@@ -14,9 +14,8 @@ h2 {
     color:#7c9aa8;
 }
 
-p,
 ul {
-  border: 2px solid rebeccapurple;
+  border: 1px solid rebeccapurple;
   padding: 0.2em;
   font-family: 'Times New Roman', Times, serif;
 }
