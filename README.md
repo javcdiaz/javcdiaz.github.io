@@ -1,4 +1,9 @@
-# Project 02: Your Professional Project Repository
-This project is about learning how to use Git and GitHub Desktop to manage versions of your project—a critical skill for any collaborative work—and publish it to a live, public URLA short paragraph describing the purpose of the website.
+# Final Project: A Full Project Proposal
+This final project is the culmination of everything I have learned. It combines the mindset of a hybrid generalist from *Range* with the practical framework of the *Unofficial Project Manager* book.
+
+This GitHub repo contains many of the common utility tools available on the web to troubleshoot network, disk space 
+
+You can download the utilities straight to the computer or put them on a USB.
+
 * My GitHub page [Javcdiaz Github](https://javcdiaz.github.io)
 * Docs folder: [Docs Folder](https://javcdiaz.github.io/docs)
